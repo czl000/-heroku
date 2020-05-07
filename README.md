@@ -16,6 +16,7 @@ https://github.com/onplus/you2php-heroku/tree/web
 
 ![pHhWRg.png](https://s1.ax1x.com/2018/01/25/pHhWRg.png)
 ![pHhRJS.png](https://s1.ax1x.com/2018/01/25/pHhRJS.png)
+> 3.0.[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 > 3.执行命令创建您的heroku应用：
 
